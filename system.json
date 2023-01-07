@@ -1,7 +1,7 @@
 {
   "id": "dnd5e",
-  "title": "DnD5e - Fifth Edition System",
-  "description": "A system for playing the fifth edition of the worlds most popular role-playing game in the Foundry Virtual Tabletop environment.",
+  "title": "DnD5e - First Try",
+  "description": "A test",
   "version": "2.0.3",
   "compatibility": {
     "minimum": "10",
@@ -9,11 +9,11 @@
     "maximum": "10"
   },
   "url": "https://github.com/foundryvtt/dnd5e/",
-  "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
-  "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-2.0.3/dnd5e-release-2.0.3.zip",
+  "manifest": "https://raw.githubusercontent.com/fedonizete/GitExample/master/system.json",
+  "download": "https://github.com/fedonizete/GitExample/archive/refs/heads/master.zip",
   "authors": [
     {
-      "name": "Atropos",
+      "name": "Donizete",
       "url": "https://foundryvtt.com"
     }
   ],
@@ -22,7 +22,7 @@
   "styles": ["dnd5e.css"],
   "packs": [
     {
-      "name": "heroes",
+      "name": "heroes Doni",
       "label": "Starter Heroes",
       "system": "dnd5e",
       "path": "./packs/heroes.db",
